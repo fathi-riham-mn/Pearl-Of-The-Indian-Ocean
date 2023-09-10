@@ -1,3 +1,4 @@
+![logo](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/6d571b86-4243-4e51-94b2-cfc0b54517b4)
 <h1 align="center">Pearl Of The Indian Ocean <br>Responsive Tourist Website Project </h1>
 
   
@@ -31,17 +32,37 @@
 - Documentation and Online Resources: Make use of official documentation and reputable online resources. Sometimes, different tutorials or explanations can clarify concepts that might be initially unclear. Be patient and persistent in your learning process.
   
 ### Solution Approach
-- W3Schools, YouTube, and Google resources are very useful when I have problems. It’s a good
-solution provider, too.
-- We had a workshop at the final time in Vue Js. That workshop was so helpful in completing our mini-project.
-- I have looked through some of the YouTube videos on how to make a webpage. Those YouTube videos helped me complete this mini-project.
-- We had an extra class with our tutor explaining Vue Js. Those explanations also helped me use VueJS.
+**Learning Vue.js:**
+- Start with the Basics: Begin by understanding the fundamentals of JavaScript before diving into Vue.js. This will provide a solid foundation.
+Interactive Tutorials: Look for interactive Vue.js tutorials, such as those with live coding examples. Websites like Vue Mastery and Vue School offer comprehensive, beginner-friendly courses.
+- Code Along: Follow along with video tutorials or coding exercises to reinforce your understanding.
+- Seek Help: Don't hesitate to ask for help from your instructor, classmates, or online communities like Stack Overflow or the Vue.js community forum when you encounter difficulties.
+  
+**Design Challenges:**
+- Use Templates: Consider using website templates or builders like WordPress, Wix, or Squarespace to simplify the design process. These platforms offer pre-designed layouts that you can customize to your liking.
+- UI/UX Inspiration: Gather inspiration from other websites and apps to understand what makes a design visually appealing and user-friendly.
+- Iterate and Refine: Your first design may not be perfect. Iterate and refine your design based on user feedback and your own evolving understanding of design principles.
+  
+**Resource Availability:**
+- Explore Multiple Resources: Don't rely on a single resource. Explore different books, courses, tutorials, and forums to gain a well-rounded understanding.
+- Seek a Mentor: If possible, find a mentor or join a local coding community where you can get one-on-one guidance and support.
+
+**Time Management:**
+- Plan Ahead: Create a project plan with clear milestones and deadlines. Allocate dedicated time for learning and development.
+- Break Tasks Down: Divide your project into smaller, manageable tasks. This makes it easier to track progress and prevents feeling overwhelmed.
+
+**Feedback and Iteration:**
+- User Testing: If feasible, conduct user testing with a small group of people to gather feedback on your website's usability and design.
+- Online Communities: Share your work with online developer communities and ask for constructive feedback. Be open to suggestions and willing to make improvements.
+
+**Documentation and Online Resources:**
+- Official Documentation: Vue.js has well-documented resources on its official website. Refer to it regularly to clarify any doubts.
+- Online Courses: Enroll in structured online courses that cover Vue.js comprehensively. These often include practical examples and explanations.
+
   
 ### Architectural diagram of the system
 <img src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/b2b73466-ab36-41c9-8f0b-810b478e879f" align="center"/>
 
-### Site Map
- <img src="https://user-images.githubusercontent.com/90142607/186638475-b77f3633-f163-4c9e-b2b3-b09d9b072f93.jpg" align="center"/>
 
 ### Used Web Technologies and examples
 I have used only front-end web technologies like
@@ -57,22 +78,24 @@ I have used only front-end web technologies like
 - Video Editing Software
   
 ### Test Results
-*Home Page:* ![Screenshot 2022-01-14 044519](https://user-images.githubusercontent.com/90142607/186636537-a3fb0c7e-9c22-42f3-8396-45cb0372ee93.png)
+**Home Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/c4b5a405-25db-418e-93d3-73f1751c1a0e)
 
-*Browse Places Page:* ![Screenshot 2022-01-14 044544](https://user-images.githubusercontent.com/90142607/186636619-ce32aea3-481f-417c-8106-b123c91d1f10.png)
+**Service Page:**![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/878e7d02-aece-4e9a-b495-9b182b688e93)
 
-*Browse Places Page (Scrolled):* ![Screenshot 2022-01-14 044557](https://user-images.githubusercontent.com/90142607/186636636-80780beb-ccdb-45cf-9efa-aa5c4e3b7309.png)
+**About Us Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bb3d4193-6fd3-4cf4-84cc-0994d7edf6f2)
 
-*To-Do List App (with VueJS):* ![Screenshot 2022-01-14 044640](https://user-images.githubusercontent.com/90142607/186636670-3c47756d-1789-458c-9d50-1b000c724f43.png)
+**Places Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/ab57486a-c2e1-4e74-8c22-bed3b1960483)
 
-*Contact Us Page :* ![Screenshot 2022-01-14 044702](https://user-images.githubusercontent.com/90142607/186636688-92971806-a40d-4e94-887a-3cf2f74f5b0c.png)
+**To-Do List Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/7483e624-ff71-431d-9660-d5b0b73389d9)
 
-*About Us Page :* ![Screenshot 2022-01-14 044740](https://user-images.githubusercontent.com/90142607/186636706-75c0a257-63a8-4748-88db-26cd55366f87.png)
+**Contact Us Page :** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/e2880e04-a59d-464b-a5a8-31c1187ea0ab)
 
-*About Us Page (Scrolled):* ![Screenshot 2022-01-14 044758](https://user-images.githubusercontent.com/90142607/186636749-034e3787-9ad1-4789-92f0-8f7919a860dc.png)
+**Info:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/8f4fc392-c99b-4dc2-84cf-851860a79cd6)
 
 
 ### Conclusion
-<p align="justify">The purpose and objective of the Pearl of the Indian Ocean project are achieved. By providing an extremely rich graphical user interface, web page design is accessible and aesthetic. Flexibility in designing makes users explore their imagination, and thus, even a novice user can dream and accomplish their wish for web page. </p>
+<p align="justify">This website for tourists visiting Sri Lanka is a promising project that leverages a combination of web technologies to provide valuable information and services to travellers. Despite facing initial challenges, such as learning Vue.js and design complexities as a first-time developer, you have made significant progress in creating a user-friendly and visually appealing platform.</p>
+
+<p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of Sri Lanka's districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
 
 
