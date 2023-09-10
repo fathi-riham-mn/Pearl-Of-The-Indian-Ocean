@@ -2,11 +2,33 @@
 
   
 ### Description 
-<p align="justify"> This webpage is for tourists who visit Sri Lanka. This webpage provides the best places in a particular district. I have also included HTML, CSS, Javascript, and VueJS to make this website. Clients can also note the places they wish to visit in the upcoming days. This can be done in a To-Do section, and I have used VueJS. I have added an image for the home background to make the website look realistic. I have added the images for the best places in a particular district. I have also added videos at the end of each district for tourists to learn more about the best places. I have also added a Query using Javascript, which can be useful for tourists to ask for help and send feedback. About Us and Contact Us give information about the website and a way to contact them, respectively.</p>
+<p align="justify"> Welcome to our Sri Lanka Travel Guide! Discover the finest destinations in every district of this beautiful island nation. Our website blends stunning imagery with informative content, ensuring an immersive experience for all tourists.</p>
+
+### Key Features
+- District Highlights: Explore the top attractions in each district, handpicked for an unforgettable journey.
+
+- To-Do List: Plan your upcoming days with our interactive To-Do section, powered by Vue.js. Easily note the places you wish to visit.
+
+- Realistic Visuals: Immerse yourself in the beauty of Sri Lanka with captivating background images, detailed photos of the best places, and informative videos.
+
+- Help & Feedback: Have questions or feedback? Our JavaScript-powered query system is at your service. Feel free to reach out for assistance.
+
+- About Us: Learn more about our website and mission, and discover the passionate team behind it.
+
+- Contact Us: Reach out to us with any inquiries or suggestions through our Contact Us page.
   
-### Problems 
-<p align="justify"> We had not learned about VueJS at the time the mini-project was given. It was hard to study VueJS quickly and complete the website. We have been given a VueJS tutorial link on our LMS page, but it was hard to understand that tutorial because of a lack of explanation.</p>
-<p align="justify">Since it is my first website, it was hard to design the website </p>
+### Challenges Faced During Website Development 
+- Learning Curve with Vue.js: Learning a new technology like Vue.js within a short timeframe can indeed be challenging, especially for beginners. It might be helpful to explore more beginner-friendly resources, such as online courses or tutorials with thorough explanations. Additionally, seeking assistance from peers or forums when encountering difficulties can accelerate the learning process.
+
+- Design Challenges: Designing a website can be overwhelming for first-timers. Consider using website builders or templates as they can simplify the design process and provide a professional look. These tools often have user-friendly interfaces and pre-designed elements that you can customize to suit your needs.
+
+- Resource Availability: Sometimes, finding the right resources can be tricky. You can explore various online forums, communities, or even hire a mentor or tutor who can provide guidance tailored to your project's needs.
+
+- Time Management: Balancing the learning curve and project deadlines can be tough. It's essential to plan your project well in advance, allocate sufficient time for learning, and break down the development tasks into manageable steps.
+
+- Feedback and Iteration: As a first-time developer, seeking feedback from others, especially those with web development experience, can be invaluable. They can help identify areas for improvement and offer suggestions for enhancing your website's design and functionality.
+
+- Documentation and Online Resources: Make use of official documentation and reputable online resources. Sometimes, different tutorials or explanations can clarify concepts that might be initially unclear. Be patient and persistent in your learning process.
   
 ### Solution Approach
 - W3Schools, YouTube, and Google resources are very useful when I have problems. It’s a good
@@ -16,7 +38,7 @@ solution provider, too.
 - We had an extra class with our tutor explaining Vue Js. Those explanations also helped me use VueJS.
   
 ### Architectural diagram of the system
-<img src="https://user-images.githubusercontent.com/90142607/186638458-1962dbd2-aa55-48ba-90b0-b252bc9dedb5.png" align="center"/>
+<img src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/b2b73466-ab36-41c9-8f0b-810b478e879f" align="center"/>
 
 ### Site Map
  <img src="https://user-images.githubusercontent.com/90142607/186638475-b77f3633-f163-4c9e-b2b3-b09d9b072f93.jpg" align="center"/>
