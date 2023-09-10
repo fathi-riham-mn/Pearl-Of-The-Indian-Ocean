@@ -35,22 +35,20 @@ I have used only front-end web technologies like
 - Video Editing Software
   
 ### Test Results
-*Home Page:*![Screenshot 2022-01-14 044519](https://user-images.githubusercontent.com/90142607/186636537-a3fb0c7e-9c22-42f3-8396-45cb0372ee93.png)
+*Home Page:* ![Screenshot 2022-01-14 044519](https://user-images.githubusercontent.com/90142607/186636537-a3fb0c7e-9c22-42f3-8396-45cb0372ee93.png)
 
-*Browse Places Page:*![Screenshot 2022-01-14 044544](https://user-images.githubusercontent.com/90142607/186636619-ce32aea3-481f-417c-8106-b123c91d1f10.png)
+*Browse Places Page:* ![Screenshot 2022-01-14 044544](https://user-images.githubusercontent.com/90142607/186636619-ce32aea3-481f-417c-8106-b123c91d1f10.png)
 
-*Browse Places Page (Scrolled):*![Screenshot 2022-01-14 044557](https://user-images.githubusercontent.com/90142607/186636636-80780beb-ccdb-45cf-9efa-aa5c4e3b7309.png)
+*Browse Places Page (Scrolled):* ![Screenshot 2022-01-14 044557](https://user-images.githubusercontent.com/90142607/186636636-80780beb-ccdb-45cf-9efa-aa5c4e3b7309.png)
 
-*To-Do List App (with VueJS):*![Screenshot 2022-01-14 044640](https://user-images.githubusercontent.com/90142607/186636670-3c47756d-1789-458c-9d50-1b000c724f43.png)
+*To-Do List App (with VueJS):* ![Screenshot 2022-01-14 044640](https://user-images.githubusercontent.com/90142607/186636670-3c47756d-1789-458c-9d50-1b000c724f43.png)
 
-*Contact Us Page :*![Screenshot 2022-01-14 044702](https://user-images.githubusercontent.com/90142607/186636688-92971806-a40d-4e94-887a-3cf2f74f5b0c.png)
+*Contact Us Page :* ![Screenshot 2022-01-14 044702](https://user-images.githubusercontent.com/90142607/186636688-92971806-a40d-4e94-887a-3cf2f74f5b0c.png)
 
-*About Us Page :*![Screenshot 2022-01-14 044740](https://user-images.githubusercontent.com/90142607/186636706-75c0a257-63a8-4748-88db-26cd55366f87.png)
+*About Us Page :* ![Screenshot 2022-01-14 044740](https://user-images.githubusercontent.com/90142607/186636706-75c0a257-63a8-4748-88db-26cd55366f87.png)
 
-*About Us Page (Scrolled):*![Screenshot 2022-01-14 044758](https://user-images.githubusercontent.com/90142607/186636749-034e3787-9ad1-4789-92f0-8f7919a860dc.png)
+*About Us Page (Scrolled):* ![Screenshot 2022-01-14 044758](https://user-images.githubusercontent.com/90142607/186636749-034e3787-9ad1-4789-92f0-8f7919a860dc.png)
 
-I have also attached a Demo Testing Video inside the Drive folder, which is
-https://drive.google.com/drive/folders/16mdAzyPQtDAqHPqTJbgEPDyMA2JMoOap?usp=sharing
 
 ### Conclusion
 <p align="justify">The purpose and objective of the Pearl of the Indian Ocean project are achieved. By providing an extremely rich graphical user interface, web page design is accessible and aesthetic. Flexibility in designing makes users explore their imagination, and thus, even a novice user can dream and accomplish their wish for web page. </p>
