@@ -12,7 +12,7 @@
     --bg-color-1:#fff;
     --bg-color-2:#eee;
 }
-
+#new-task
 *{
     font-family: 'Poppins', sans-serif;
     margin:0; padding: 0;
@@ -29,6 +29,7 @@ html{
     scroll-padding-top: 7rem;
     scroll-behavior: smooth;
 }
+
 
 section{
     padding:2rem 9%;
@@ -104,7 +105,7 @@ section:nth-child(even){
     display: flex;
     align-items: center;
     height: 4.5rem;
-    width:50rem;
+    width:40rem;
 }
 
 .header .search-form input{
@@ -185,7 +186,8 @@ section:nth-child(even){
 
 .home .image img{
     width: 100%;
-    height: 550px;
+    height: 500px;
+    border-radius: 250px  250px 0;
 }
 
 .home .content{
@@ -290,6 +292,8 @@ section:nth-child(even){
 
 .about .row .image img{
     width: 100%;
+    
+    border-radius: 0 250px  250px;
 }
 
 .about .row .content{
@@ -363,7 +367,9 @@ section:nth-child(even){
 }
 
 .doctors .box-container .box:hover  img{
-    transform:scale(1.2);}
+    transform:scale(1.2);
+    border-radius: 0 250px 250px ;
+}
     
 
 .doctors .box-container .box img{
@@ -375,6 +381,7 @@ section:nth-child(even){
     margin-bottom: 1rem;
     overflow: hidden;
     object-fit: cover;
+    /* border-radius: 250px  250px 0; */
 }
 
 .doctors .box-container .box h3{
@@ -402,6 +409,7 @@ section:nth-child(even){
 
 .book .row .image img{
     width: 100%;
+    border-radius: 250px  250px;
 }
 
 .book .row form{
@@ -474,15 +482,15 @@ section:nth-child(even){
     border-radius: .5rem;
 }
 
-.to-do .box-container .image{
+.to-do .form-container .image{
     flex:1 1 45rem;
 }
 
-.to-do .box-container .image img{  
+.to-do .form-container .image img{  
     width: 110%;   
 }
 
-.to-do .box-container .container .p label input{
+.to-do .form-container .container .p label input{
     border:var(--border);
     box-shadow: var(--box-shadow);
     border-radius: .5rem; 
@@ -551,7 +559,7 @@ ul {
     display: block;
     margin: 0 0 20px;
   }
-  input#new-task {
+  input #new-task {
     float:left;
     width: 318px;
   }
@@ -806,5 +814,9 @@ ul {
     html{
         font-size: 50%;
     }
-
+    .home .image img{
+        width: 100%;
+        height: 200px;
+        border-radius: 250px  250px 0;
+    }
 }
