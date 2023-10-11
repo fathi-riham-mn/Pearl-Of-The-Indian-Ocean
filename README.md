@@ -1,6 +1,8 @@
-![logo](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/6d571b86-4243-4e51-94b2-cfc0b54517b4)
 <h1 align="center">Pearl Of The Indian Ocean <br>Responsive Tourist Website Project </h1>
 
+<div align="center">
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bbe848c9-a3b7-453e-ae25-768328b98edd">
+</div>
   
 ### Description 
 <p align="justify"> Welcome to our Sri Lanka Travel Guide! Discover the finest destinations in every district of this beautiful island nation. Our website blends stunning imagery with informative content, ensuring an immersive experience for all tourists.</p>
@@ -61,8 +63,9 @@ Interactive Tutorials: Look for interactive Vue.js tutorials, such as those with
 
   
 ### Architectural diagram of the system
-<img src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/b2b73466-ab36-41c9-8f0b-810b478e879f" align="center"/>
-
+<div align="center">
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/a54f77f1-266c-4162-b3b5-a702a25e382a">
+</div>
 
 ### Used Web Technologies and examples
 I have used only front-end web technologies like
@@ -78,19 +81,31 @@ I have used only front-end web technologies like
 - Video Editing Software
   
 ### Test Results
-**Home Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/c4b5a405-25db-418e-93d3-73f1751c1a0e)
+**Home Page:** 
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/7183ee19-872f-4a0f-9984-53183cb8dc45">
 
-**Service Page:**![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/878e7d02-aece-4e9a-b495-9b182b688e93)
 
-**About Us Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bb3d4193-6fd3-4cf4-84cc-0994d7edf6f2)
+**Service Page:**
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/d67a10d8-8e12-466d-a42d-6cada277644e">
 
-**Places Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/ab57486a-c2e1-4e74-8c22-bed3b1960483)
+**About Us Page:**
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/4e8e5a37-4a01-4e3f-95f0-5b322b980896">
 
-**To-Do List Page:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/7483e624-ff71-431d-9660-d5b0b73389d9)
 
-**Contact Us Page :** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/e2880e04-a59d-464b-a5a8-31c1187ea0ab)
+**Places Page:**
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/05b74d04-cc86-45ea-b596-6a9928b79aff">
 
-**Info:** ![image](https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/8f4fc392-c99b-4dc2-84cf-851860a79cd6)
+
+**To-Do List Page:**
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bafade30-1a96-42a5-bbe7-c4518b53fc00">
+
+**Contact Us Page :**
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/0764ae49-6428-4944-a87e-566a05ea8754">
+
+
+**Info:** 
+<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/967bbb8b-f16c-4e0c-b27d-15d325af8e44">
+
 
 
 ### Conclusion
