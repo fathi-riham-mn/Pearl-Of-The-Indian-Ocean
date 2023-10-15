@@ -88,14 +88,15 @@ section:nth-child(even){
 }
 
 .header{
-    padding:2rem 9%;
+    /* padding:2rem 9%; */
+    height: 10rem;
     position: fixed;
     top:0; left: 0; right: 0;
     z-index: 1000;
     box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     background: #fff;
 }
 
@@ -109,6 +110,9 @@ section:nth-child(even){
 }
 
 .header .search-form input{
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    border: none;
     height:100%;
     width:100%;
     background:none;
@@ -120,7 +124,7 @@ section:nth-child(even){
 
 .header .search-form label{
     font-size: 2rem;
-    margin-right: 1.5rem;
+    /* margin-right: 1.5rem; */
     color:var(--text-color-1);
     cursor: pointer;
 }
@@ -129,7 +133,7 @@ section:nth-child(even){
     color:var(--green);
 }
 
-.header .icons div{
+/* .header .icons div{
     height:4.5rem;
     width:4.5rem;
     line-height:4.5rem;
@@ -140,26 +144,52 @@ section:nth-child(even){
     color:var(--text-color-1);
     cursor: pointer;
     text-align: center;
-}
+} */
 
-.header .icons div:hover{
+/* .header .icons div:hover{
     color:#fff;
     background:var(--green);
-}
+} */
 
 #search-btn{
     display:none;
 }
-
+.icon{
+    display: flex;
+    height: 45px;
+    width: 45px;
+    border-radius: 0.5rem;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    background-color: var(--green);
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50%;
+}
 
 .header .navbar a{
+    width: 11rem;
+    text-align: center;
+    font-weight: bold;
     font-size: 1.7rem;
-    color: var(--light-color);
-    margin-left: 2rem;
+    /* border: 1px solid var(--green); */
+    color: var(--green);
+    text-decoration: none;
+    padding: 12px 10px;
+    border-radius: 1rem;
+    border: 1px solid var(--green);
 }
 
 .header .navbar a:hover{
-    color: var(--green);
+    background-color: var(--green);
+    color: white;
 }
 
 #menu-btn{
@@ -193,19 +223,34 @@ section:nth-child(even){
 .home .content{
     flex:1 1 45rem;
 }
-
+.welcome{
+    font-size: 5rem;
+    text-align: center;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
 .home .content h3{
+    padding: 0;
+    margin: 0;
     font-size: 4.5rem;
     color:var(--black);
-    line-height: 1.8;
     text-shadow: var(--text-shadow);
+    text-align: center;
+    margin-bottom: 2rem;
 }
 
 .home .content p{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
     font-size: 1.7rem;
     color:var(--light-color);
     line-height: 3;
-    padding: 1rem 0;
+    /* padding: 1rem 0; */
 }
 
 .form-container form{
@@ -230,18 +275,21 @@ section:nth-child(even){
 }
 
 .form-container form .inputBox input{
+    height: 20px;
     font-size: 1.5rem;
     color:var(--text-color-1);
     background:var(--bg-color-2);
     border-radius: .5rem;
     margin:.5rem 0;
     text-transform: none;
-    width: 100%;
+    width: 90%;
     padding:1rem;
    
 }
 
 .form-container form .btn{
+    margin-top: 20px;
+    height: 44px;
     flex:1 1 23rem;
 }
 
@@ -313,7 +361,11 @@ section:nth-child(even){
     font-size: 1.5rem;
     line-height: 1.8;
 }
-
+.row form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 
 
 .icons-container{
@@ -764,29 +816,32 @@ ul {
     html{
         font-size: 55%;
     }
-
+    
     .header{
         padding: 2rem;
     }
-
+    
     section{
         padding:2rem;
     }
-
+    
 }
 
-@media (max-width:768px){
-
+@media (max-width:1600px){
     #menu-btn{
         display: initial;
     }
 
     .header .navbar{
+        width: 50%;
+        display: flex;
+        /* flex-direction: column; */
+        flex-wrap: wrap;
         position: absolute;
         top:115%; right: 2rem;
         border-radius: .5rem;
         box-shadow: var(--box-shadow);
-        width: 30rem;
+        /* width: 30rem; */
         border: var(--border);
         background: #fff;
         transform: scale(0);
@@ -794,17 +849,21 @@ ul {
         transform-origin: top right;
         transition: none;
     }
-
-    .header .navbar.active{
-        transform: scale(1);
-        opacity: 1;
-        transition: .2s ease-out;
+    .icon{
+        height: 39.95px;
     }
+        .header .navbar.active{
+            transform: scale(1);
+            opacity: 1;
+            transition: .2s ease-out;
+        }
 
     .header .navbar a{
+        width: 135.25px;
+        text-align: center;
         font-size: 2rem;
         display: block;
-        margin:2.5rem;
+        margin:1.5rem;
     }
 
 }
