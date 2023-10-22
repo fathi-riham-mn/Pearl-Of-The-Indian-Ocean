@@ -113,4 +113,17 @@ I have used only front-end web technologies like
 
 <p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of Sri Lanka's districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
 
+### 💖 Support
 
+<p>You can show your support by starring this project. ⭐</p>
+<a href="https://github.com/rihamnazeer/gitprofile/stargazers">
+  <img src="https://img.shields.io/github/stars/rihamnazeer/gitprofile?style=social" alt="Github Star">
+</a>
+
+### 💡 Contribute
+
+To contribute, see the [Contributing guide](/CONTRIBUTING.md).
+
+### 📄 License
+
+[MIT](https://github.com/rihamnazeer/gitprofile/blob/main/LICENSE)
