@@ -116,14 +116,18 @@ I have used only front-end web technologies like
 ### 💖 Support
 
 <p>You can show your support by starring this project. ⭐</p>
-<a href="https://github.com/rihamnazeer/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/rihamnazeer/gitprofile?style=social" alt="Github Star">
+<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/stargazers">
+  <img src="https://img.shields.io/github/stars/rihamnazeer/Pearl-Of-The-Indian-Ocean?style=social" alt="Github Star">
 </a>
 
 ### 💡 Contribute
 
-To contribute, see the [Contributing guide](/CONTRIBUTING.md).
-
+<a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/CONTRIBUTING.md">
+   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
+</a>
+    
 ### 📄 License
 
-[MIT](https://github.com/rihamnazeer/gitprofile/blob/main/LICENSE)
+ <a href="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/rihamnazeer/Pearl-Of-The-Indian-Ocean"/>
+</a>
