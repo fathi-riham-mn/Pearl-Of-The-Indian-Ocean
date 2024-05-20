@@ -762,8 +762,9 @@ ul {
     max-width: 500px;
     margin: 10px auto;
     line-height: 28px;
-    font-size: 14px;
-    color: #cacdd2;
+    font-size: 16px;
+    text-align: justify;
+    color: #585858;
 }
 
 .footer .box-container .box h3{
@@ -801,12 +802,6 @@ ul {
 .footer .credit span{
     color:var(--green);
 }
-
-
-
-
-
-
 
 
 
